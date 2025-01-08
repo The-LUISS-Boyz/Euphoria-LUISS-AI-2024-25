@@ -67,6 +67,27 @@ Include visualizations such as:
 
 Figures will be generated from the provided code in the notebook.
 
+### Cluster results:
+![Cluster_res](https://github.com/user-attachments/assets/7892af53-4cea-40a0-8813-e61422ece22b)
+
+### Boxplot to identify outliers in numerical columns like 'happiness_index'
+![happiness_index](https://github.com/user-attachments/assets/cc9aade3-e407-4231-8207-5b010e22caba)
+
+![cluster_1](https://github.com/user-attachments/assets/04b7ce77-4bf2-4408-9bb7-8f0377b32cfc)
+![Cluster_2](https://github.com/user-attachments/assets/8f6875e3-df0d-448a-8252-cadde68b050a)
+
+### Random Forest results:
+![random_forest](https://github.com/user-attachments/assets/0ba5839e-1191-4f5e-a3e9-fae9842e1bce)
+
+### Gradient boosting regressor
+![gradient_b](https://github.com/user-attachments/assets/0eb76a2b-c2f3-4555-97f4-eff22768dca1)
+
+## Train the Best Model
+After identifying the best parameters, we can retrain the model using the optimal hyperparameters.+
+![training1](https://github.com/user-attachments/assets/3c7d79ea-cf39-47fd-9b71-5e583afe5a7a)
+![training2](https://github.com/user-attachments/assets/68d69c2d-87c5-45f9-a51b-33f399522e1a)
+
+
 ---
 
 ## [Section 5] Conclusions
