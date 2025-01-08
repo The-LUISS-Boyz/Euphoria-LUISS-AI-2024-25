@@ -1,5 +1,5 @@
-# Euphoria Data Analysis Project
-
+# Euphoria Data Analysis Project Group20-306971
+ 
 ## Members
 * Angelo Misnik (CAP) - 306971
 * Tommaso Di Blasio - 306491
